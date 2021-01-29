@@ -1,5 +1,5 @@
 
 ### Hello World
-#### think simple -> write clean -> build now
+#### think simple -> write clean
 
 maydinunlu@gmail.com
