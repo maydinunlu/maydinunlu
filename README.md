@@ -2,4 +2,6 @@
 ### Hello World
 #### think simple -> write clean
 
-maydinunlu@gmail.com
+[![Stats](https://github-readme-stats.vercel.app/api?username=maydinunlu&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maydinunlu&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
